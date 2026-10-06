@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1791268856054,
+    "description" : "회원 데이터 DBtoDB 이관 POC Flow",
+    "identifier" : "-DATA-",
+    "lastModifiedTimestamp" : 1791268856054,
+    "name" : "회원 DATA 이관",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
