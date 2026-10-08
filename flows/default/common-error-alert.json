@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1791447709632,
+    "description" : "NiFi 공통 오류 표준화 및 Slack Webhook 알림 Flow",
+    "identifier" : "common-error-alert",
+    "lastModifiedTimestamp" : 1791447709632,
+    "name" : "common-error-alert",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
