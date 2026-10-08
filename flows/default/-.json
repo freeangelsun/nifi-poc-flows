@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1791429265280,
+    "description" : "",
+    "identifier" : "-",
+    "lastModifiedTimestamp" : 1791429265280,
+    "name" : "공통 오류 알림",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
